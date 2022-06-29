@@ -1,5 +1,8 @@
-https://github.com/YatishGurrala/NYC-Schools/blob/main/Screenshot/detailed%20activity.jpeg
-https://github.com/YatishGurrala/NYC-Schools/blob/main/Screenshot/main%20activity.jpeg
+## Screenshots
+
+<img src="./Screenshot/main%20activity.jpeg"/>
+
+<img src="./Screenshot/detailed%20activity.jpeg"/>
 
 ##Implemented the application using MVVM architecture
 ##Used material Design for the UI
